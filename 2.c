@@ -12,6 +12,6 @@ int main(int argc, char const *argv[])
             count++;
         }
     }
-    printf("¸öÊı£º%d,ºÍ£º%d",count,sum);
+    printf("Â¸Ã¶ÃŠÃ½Â£Âº%d,ÂºÃÂ£Âº%d",count,sum);
     return 0;
 }
